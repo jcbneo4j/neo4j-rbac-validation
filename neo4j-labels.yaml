@@ -1,0 +1,6 @@
+tests:
+  - primary_label: PersonAttributes
+    secondary_labels:
+      - XDeidentified
+      - Full
+      - Limited
